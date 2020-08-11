@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pages on Richard Blog</title>
+    <link>https://funnydata.github.io/cn/tags/pages/</link>
+    <description>Recent content in pages on Richard Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Aug 2020 16:07:12 +0800</lastBuildDate>
+    
+	<atom:link href="https://funnydata.github.io/cn/tags/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://funnydata.github.io/cn/posts/my-first-post/</link>
+      <pubDate>Tue, 11 Aug 2020 16:07:12 +0800</pubDate>
+      
+      <guid>https://funnydata.github.io/cn/posts/my-first-post/</guid>
+      <description>第一篇博客测试</description>
+    </item>
+    
+  </channel>
+</rss>
